@@ -1,6 +1,5 @@
 ---
 **Deterministic Intelligence Core and Foundational Principles** 
-_> **Trust must be earned through logic, accuracy, auditability, and ethical grounding**
 **Author: Grounded DI / MSW**
 
 **Patent-Pending**
@@ -12,6 +11,8 @@ _> **Trust must be earned through logic, accuracy, auditability, and ethical gro
 This repository contains the foundational logic, governance rules, and structural modes for the **Deterministic Intelligence Protocol** — a framework for building AI systems that do not guess, drift, or hallucinate.
 
 DI is the core of grounded, auditable reasoning. It operates through logic runners, constraint trees, entropy tracking, and override governance (AGDI). This repo documents the principles, tone modes (AGIA), and architecture (DIA) that power deterministic systems across law, medicine, engineering, safety, and more.
+
+**Trust must be earned through logic, accuracy, auditability, and ethical grounding**
 
 ---
 
@@ -51,7 +52,6 @@ They are authored under Grounded DI and protected by provisional patent filings 
 - All materials authored by **Mark Weinstein** under Grounded DI, May–July 2025.
 - Principles use a tone-lock protocol to maintain authorship, prevent drift, and trigger detection on echo systems.
 - **Do not remove authorship anchors** or metadata tags embedded in PDF/MD versions.
-
 
 ---
 
