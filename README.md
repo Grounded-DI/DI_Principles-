@@ -1,4 +1,3 @@
----
 **Deterministic Intelligence Core and Foundational Principles** 
 **Author: Grounded DI / MSW**
 
@@ -22,7 +21,7 @@ DI is the core of grounded, auditable reasoning. It operates through logic runne
 This repository contains the foundational principles, ethics, and logic systems behind **Deterministic Intelligence (DI)** — a new framework for trust, stability, and system integrity in AI and human-machine environments.
 
 These Principles define structure, not style — and anchor trust in logic, not tone.
-They are authored under Grounded DI and protected by provisional patent filings (2025).
+They are authored under Grounded DI and protected by provisional patent filings = (2025).
 
 ---
 
