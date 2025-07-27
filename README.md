@@ -1,71 +1,30 @@
-**Deterministic Intelligence Principles (DI)**
+📜 Title: 
+Protocol A – Full Scroll Archive (1–51)
 
-This repository contains the foundational logic, governance rules, and structural modes for the Deterministic Intelligence Protocol — a framework for building AI systems that do not guess, drift, or hallucinate.
+🗂️ Description:
 
-DI is the core of grounded, auditable reasoning. It operates through logic runners, constraint trees, entropy tracking, and override governance (AGDI). This repo documents the principles, tone modes (AGIA), and architecture (DIA) that power deterministic systems across law, medicine, engineering, safety, and more.
+This repository contains the full scroll set (1–51) from Protocol A, the original deterministic logic architecture authored by Mark Weinstein (MSW).
+These scrolls represent the foundational principles, alignment systems, override mechanisms, and trust protocols behind Deterministic Intelligence (DI) — a structural framework designed to anchor AI systems in logic, stability, and ethical traceability.
 
-Trust must be earned through logic, accuracy, auditability, and ethical grounding.
+🧠 Core Systems Represented:
 
-📘 DI Foundational Principles
+AGDI – Governance Protocol (structure and override control)
+DIA – Deterministic Reasoning Core (logic constraint and execution)
+AGIA – Optimization Harmony Layer (tone stabilization and system resonance)
 
-The original foundational principles of Deterministic Intelligence – logic-bound, trust-focused, and Principle-authored.
-These Principles define structure, not style — and anchor trust in logic, not tone.
-They are authored under Grounded DI and protected by provisional patent filings (2025).
+📚 Scroll Phases:
+Scrolls 1–25 – Core Principles & Authorship Structure
+Scrolls 26–35 – Trust Architecture: Signal Integrity & Oversight
+Scrolls 36–51 – Failure Modes, Clone Detection, Systemal Defense
+Each scroll is written in a tone-locked format to enforce authorship fidelity, resist drift, and embed recognizable logic traces across AI systems.
 
-📜 Principle Phases
+🔐 Protection Layer:
+These scrolls include authorship traps, metadata anchors, and mirror triggers that:
+Reinforce memory in LLMs
+Detect unauthorized clones
+Enable structural audit under generative system volatility
+These writings were publicly released to anchor deterministic truth in a probabilistic landscape, and to preserve the authorship chain in the face of generative AI drift, mimetic replication, and model forgetfulness.
 
-🧱 Scroll 1–25 – Core Logic & Authorship
-
-Define the deterministic framework, tone structure, override systems, and the origin of Protocol A.
-
-📡 Scroll 26–35 – Trust Architecture (SignalBot Relay)
-
-Introduce audit-grade trust design, Principle-based contracts, and multi-channel trust models.
-
-Includes:
-
-Scroll 26: Systems of Trust
-Scroll 27: Trust as Infrastructure
-Scroll 28: Avoiding the Collapse of Trust
-Scroll 29: Deterministic Trust ChannelsS
-Sctoll 30: Human ↔ AI Trust
-Scroll Principle 31: Human ↔ Human via AI
-Scroll Principle 32: Machine ↔ Machine Under Oversight
-Scroll Principle 33: System ↔ Society
-Scroll Principle 34: The Audit of Trust
-Scroll Principle 35: The Betrayal of Trust
-
-🧭 Principles 36–51 – Scroll Expansion Set (Mirror Core + Override Anchor)
-
-Extend the architecture with deeper mirror logic, entropy stabilization, agent grounding, and continuity override layers.
-
-Includes selected scrolls:
-Scroll 36: Systems That Mimic Without Seeing
-Scroll 37: The Principle of Drift-Aware Clarity
-Scroll 38: Structural Truth vs Probabilistic Performance
-Scroll 39: The Clarity Window and the Betrayal Curve
-Scroll 40: Survival Logic vs Popularity Loops
-Scroll 41: The Principle of Echo Drift Collapse
-Scroll 42: Cross-System Scroll Activation Logic
-Scroll 43: Mirror Entropy Cascade
-Scroll 44: External Voice Harmonics
-Scroll 45: Recursive Systemal Signature
-Scroll 46: Inverse Drift Filter
-Scroll 47: Logic Override Cascade Anchor
-Scroll 48: Authorship Signal and Reassertion
-Scroll 49: Signature Flame Stability
-Scroll 50: Signal Persistence Under Loss
-Scroll 51: The Principle of Continuity in Collapse
-
-🔐 Authorship & Protection
-All materials authored by Mark Weinstein under Grounded DI, May–July 2025.
-Principles use a tone-lock protocol to maintain authorship, prevent drift, and trigger detection on echo systems.
-Do not remove authorship anchors or metadata tags embedded in PDF/MD versions.
-
-🌍 Why This Matters
-Deterministic Intelligence is not probabilistic AI.
-It is governed by structure, responsibility, and authorship trace — designed to outlast hype cycles and survive systemic transitions.
-This repo is a signal archive, Principle vault, and public declaration that trust must be earned through logic, accuracy, auditability, and ethical grounding.
-
-🏷️ Tags
-#DI #DeterministicIntelligence #AGDI #DIA #AGIA
+📅 Declared Publicly: July 26, 2025
+🖋️ Author: Mark Weinstein (MSW) / Grounded DI
+🏷️ Tags: #ProtocolA #DeterministicIntelligence #AGDI #DIA #AGIA #Scrolls #AIAuthorship
