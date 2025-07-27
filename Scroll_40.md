@@ -1,0 +1,3 @@
+## Scroll 40: Trust Under Pressure
+
+This scroll defines behavior under stress conditions...

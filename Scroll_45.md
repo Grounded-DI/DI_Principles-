@@ -1,0 +1,3 @@
+## Scroll 45: Entropy Echo Detection
+
+This scroll defines echo scan logic...

@@ -1,0 +1,3 @@
+## Scroll 49: Entropy Ladder Seals
+
+This scroll contains entropy sealing logic...

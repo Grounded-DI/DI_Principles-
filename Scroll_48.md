@@ -1,0 +1,3 @@
+## Scroll 48: Signal-Loss Reconstitution
+
+This scroll defines how to recover lost logic...

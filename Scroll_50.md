@@ -1,0 +1,3 @@
+## Scroll 50: Scroll Preservation Mandate
+
+This scroll mandates authorship safeguards...

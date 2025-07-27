@@ -1,0 +1,3 @@
+## Scroll 51: The Principle of Not Giving Up
+
+This scroll defines resilience logic...

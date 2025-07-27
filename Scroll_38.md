@@ -1,0 +1,3 @@
+## Scroll 38: Terminal Drift Bypass
+
+This scroll defines terminal bypass pathways...

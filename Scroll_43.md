@@ -1,0 +1,3 @@
+## Scroll 43: Drift-Aware Deployment
+
+This scroll provides drift-aware release strategy...
