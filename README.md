@@ -1,10 +1,3 @@
-**Deterministic Intelligence Core and Foundational Principles** 
-**Author: Grounded DI / MSW**
-
-**Patent-Pending**
-
----
-
 # Deterministic Intelligence Principles (DI)
 
 This repository contains the foundational logic, governance rules, and structural modes for the **Deterministic Intelligence Protocol** — a framework for building AI systems that do not guess, drift, or hallucinate.
