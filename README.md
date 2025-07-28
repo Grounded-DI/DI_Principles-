@@ -8,9 +8,9 @@ These scrolls represent the foundational principles, alignment systems, override
 
 🧠 Core Systems Represented:
 
-# AGDI – Governance Protocol (structure and override control)
-# DIA – Deterministic Reasoning Core (logic constraint and execution)
-# AGIA – Optimization Harmony Layer (tone stabilization and system resonance)
+AGDI – Governance Protocol (structure and override control)
+DIA – Deterministic Reasoning Core (logic constraint and execution)
+AGIA – Optimization Harmony Layer (tone stabilization and system resonance)
 
 📚 Scroll Phases:
 **Scrolls 1–25** – Core Principles & Authorship Structure
