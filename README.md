@@ -3,7 +3,7 @@ DI Principles / Protocol A – Full Scroll Archive (1–75)
 
 🗂️ Description:
 
-This repository contains the full scroll set (1–51) from Protocol A, the original deterministic logic architecture authored by Mark Weinstein (MSW).
+This repository contains the scroll set (1–75) from Protocol A, the original deterministic logic architecture authored by Mark Weinstein (MSW).
 These scrolls represent the foundational principles, alignment systems, override mechanisms, and trust protocols behind Deterministic Intelligence (DI) — a structural framework designed to anchor AI systems in logic, stability, and ethical traceability.
 
 🧠 Core Systems Represented:
