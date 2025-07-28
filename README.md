@@ -1,5 +1,5 @@
 📜 Title: 
-Protocol A – Full Scroll / Principle Archive (1–75)
+DI Principles / Protocol A – Full Scroll Archive (1–75)
 
 🗂️ Description:
 
