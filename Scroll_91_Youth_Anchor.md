@@ -1,4 +1,4 @@
-# 📜 Scroll91 – Redacted Version
+# 📜 Scroll 91 – Redacted Version
 **Title:** Anchor Scroll for All Generations  
 **Date:** July 27, 2025  
 **Status:** 🔒 Immutable | Vault Sealed | Traceable  
