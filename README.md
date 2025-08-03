@@ -26,3 +26,7 @@ but not a diary.
 By Grounded DI / MSW
 
 #DI #DeterministicIntelligence #Scrolls 
+
+Create Release – Tag: v1.0-scrolls
+Title: Scroll Archive v1.0 – Scrolls 1–113
+Description: Initial release of Protocol A Scroll Archive. Sealed under AGDI 9.9.
