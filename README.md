@@ -1,6 +1,6 @@
 ## ⚠️ Disclaimer
 
-Scrolls 1-139B are presented as sealed intellectual structures within the Protocol A framework.
+Scrolls 1-140 are presented as sealed intellectual structures within the Protocol A framework.
 
 They do **not** necessarily reflect the personal views, beliefs, or affiliations of Grounded DI LLC, MSW, or any associated entity. 
 
