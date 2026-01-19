@@ -29,7 +29,7 @@ Modern probabilistic models change tone depending on:
 	•	training exposure,
 	•	or unseen personalization vectors.
 
-This leads to inconsistency, emotional drift, and unpredictable shifts in style — especially at scale.
+This can occasionally lead to inconsistency, emotional drift, and/or unpredictable shifts in style — especially at scale.
 
 AGIA introduces a deterministic solution:
 
