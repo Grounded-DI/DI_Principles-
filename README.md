@@ -1,4 +1,4 @@
-🚨 Grounded DI Files Patent #30:
+Grounded DI LLC Files Patent #30:
 
 Deterministic AI-Generated Text Detection (63/970,433)
 A structural breakthrough in authorship integrity and deterministic auditability
