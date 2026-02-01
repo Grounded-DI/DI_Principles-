@@ -1,4 +1,4 @@
-Grounded DI LLC 🌀 Scroll-Based Deterministic Intelligence (63/973,240) (January 31, 2026)
+Grounded DI LLC 🌀 Scroll-Based Deterministic Intelligence (Patent Filing #31) (63/973,240) (January 31, 2026)
 
 A new architecture for auditable AI — authored, sealed, and entropy-bound
 
@@ -154,12 +154,6 @@ Filed: January 31, 2026
 Title: Systems and Methods for Structuring Scroll-Based Deterministic Intelligence Architecture Using Deterministic Intelligence Principles (DIPs)
 Status: Patent Pending (USPTO)
 Application #: 63/973,240
-
-—
-
-📣 Final Line for Public Release
-
-DIP / Scrolls give deterministic AI reinforced architecture
 
 ____
 
