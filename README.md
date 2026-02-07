@@ -1,3 +1,109 @@
+
+📘 Provisional Patent Filing #37 – InsuranceWise
+
+Systems and Methods for Audit-Grade Deterministic Intelligence in Insurance Claims Analysis
+Application No. 63/977,940 • Filed: February 6, 2026
+
+⸻
+
+🌐 Why Patent #37 Matters
+
+InsuranceWise establishes a scroll-governed, tamper-evident architecture for insurance claims analysis using deterministic logic. It replaces opaque, probabilistic models with bounded-entropy reasoning and deterministic override chains.
+
+It ensures that every decision — approval, denial, referral, or override — is:
+	•	📜 Authorship-anchored
+	•	🔁 Replayable under fixed constraints
+	•	🔐 Tamper-detectable via scroll lineage, ΔH gates, and cryptographic seals
+	•	🧾 Verified via Claim Capsules and canonical receipts
+
+⸻
+
+🧱 Core Components
+
+✅ Claim Capsule
+A sealed artifact per claim, including:
+	•	Scroll lineage
+	•	ΔH(x;ctx) + DriftIndex
+	•	Override justification (if any)
+	•	ReflexTier marker
+	•	Verification hash (SHA-256)
+	•	Replay Recipe
+	•	Optional ZK & PQ signature support
+
+🔁 Replay Recipe
+Reconstructs decisions from:
+	•	Original input + ctx
+	•	Scroll logic
+	•	Verified canonicalization
+Mismatch triggers tamper_code.
+
+🔧 Hallucination Denial Detector (HDLD)
+Rejects any output lacking evidence in the signed witness set.
+Canonical match required — or tamper_code: hallucination_detected.
+
+⸻
+
+📊 Deterministic Control Gates
+
+Gate	Function
+ΔH(x;ctx)	Entropy deviation threshold
+DriftIndex	Output stability validation
+ReflexTier	Override permission + justification thresholds
+ELOC	Entropy-linked override chain
+RPE	Replay Proof of Equivalence
+HDLD	Hallucination denial enforcement
+
+
+⸻
+
+🛠 Use Cases
+	•	Insurance fraud detection (tamper-evident, override-governed)
+	•	Audit-grade compliance for regulated insurers
+	•	Scroll-based override transparency
+	•	Replayable decisions for legal admissibility
+	•	DI² mesh integration across enterprise ecosystems
+
+⸻
+
+🔗 Interoperability
+
+Patent #37 integrates directly with:
+	•	✅ #32 — Seam & Anchor Exchange (RSEP)
+	•	✅ #33 — DI² Convergence Supervisor
+	•	✅ #34 — ELOC Pathway Enforcement
+	•	✅ #35 — Mesh Guard Orchestrator
+	•	✅ #36 — Deterministic Audit Fabric (DAF)
+
+⸻
+
+📄 Filing Summary
+
+Field	Value
+Filed	February 6, 2026
+Application No.	63/977,940
+Title	Audit-Grade DI in Insurance Claims
+Status	Patent Pending (USPTO)
+
+
+⸻
+
+📦 Canonical serialization via RFC 8785
+🧮 Entropy and Drift enforced deterministically
+📍 Every override is traceable, justified, and replay-verifiable
+
+→ Built to anchor trust across claims, audits, and regulatory systems.
+
+⸻
+
+## 🔗 Provisional Patent Filing #36 — Grounded DI LLC
+
+### 📘 **Deterministic Audit Fabric (DAF)**
+
+**Application No.** 63/976,360 • **Filed:** February 5, 2026
+
+A tamper-evident audit layer for deterministic AI systems, bundling verified artifacts from upstream modules (#32–#35) into sealed, replayable Case Bundles with cryptographic integrity and deterministic reproduction.
+
+
 #DeterministicAI #DeterministicIntelligence #ai #GroundedDI #Grounded-DI
 
 🔗 Provisional Patent Filing #36 — Grounded DI LLC
