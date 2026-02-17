@@ -12,7 +12,7 @@ Application No. 63/984,593 • Filed: February 17, 2026
 Mathematics is the backbone of scientific modeling, financial systems, diagnostics, engineering, and safety-critical computation.
 But today it is executed through probabilistic models, unstable floating-point pipelines, and opaque, non-replayable heuristics.
 
-MathWise replaces all of that.
+MathWise changes all of that.
 
 It is the first scroll-governed, fully deterministic mathematical computation engine, designed to produce identical, auditable, drift-free numerical results across:
 	•	scientific workflows
