@@ -1,5 +1,216 @@
 Grounded DI LLC
 
+📘 Provisional Patent Filing #41 – MathWise
+
+Deterministic Mathematical Computation & Audit System
+Application No. 63/984,593 • Filed: February 17, 2026
+
+⸻
+
+🌐 Why Patent #41 Matters
+
+Mathematics is the backbone of scientific modeling, financial systems, diagnostics, engineering, and safety-critical computation.
+But today it is executed through probabilistic models, unstable floating-point pipelines, and opaque, non-replayable heuristics.
+
+MathWise replaces all of that.
+
+It is the first scroll-governed, fully deterministic mathematical computation engine, designed to produce identical, auditable, drift-free numerical results across:
+	•	scientific workflows
+	•	financial models
+	•	diagnostics & signal processing
+	•	engineering simulations
+	•	legal/forensic calculations
+	•	safety-regulated environments
+
+MathWise enforces:
+
+• 📜 Authorship-anchored numeric pipelines
+• 🔁 Replayable deterministic opcode paths (DOSI)
+• 🔐 Tamper-detectable computation (DriftFrame + ΔH gating)
+• 🧾 Immutable computation ledgers & property verifications
+• 🎯 Bounded-error, value-stable numerical transforms
+• 🧮 Machine-replayable proofs of equivalence (RPE)
+
+With MathWise, numerical results become evidence-grade deterministic artifacts, not probabilistic outputs.
+
+⸻
+
+🧱 Core Components
+
+✅ DOSI — Deterministic Opcode Sequence Interpreter
+
+A drift-free computation pipeline including:
+	•	deterministic opcode ordering
+	•	canonical argument normalization
+	•	fixed-precision & value-stability rules
+	•	hash-locked execution states
+	•	replay-verifiable computation paths
+
+MathWise guarantees that the same inputs always yield the same outputs, bit-for-bit.
+
+⸻
+
+🔑 MDEK — Master Deterministic Entropy Kernel
+
+The entropy-governed mathematical core of the system.
+
+MDEK enforces:
+	•	35 deterministic entropy metrics
+	•	scalar & vector stability modes
+	•	replay-verifiable ΔH signatures
+	•	property-level value drift detection
+	•	numeric traceability across entire pipelines
+
+This is the mathematical equivalent of a deterministic thermodynamic fingerprint.
+
+⸻
+
+🧮 Property Verification Engine (PVE)
+
+Verifies mathematical properties using deterministic logic:
+	•	monotonicity
+	•	convexity/concavity
+	•	bounded-error invariants
+	•	conservation laws
+	•	symmetry constraints
+	•	inequality validation
+
+Each property check produces:
+	•	a canonical result
+	•	a replay-proof ledger entry
+	•	a DriftFrame delta (if any deviation occurs)
+
+⸻
+
+📦 Computation Capsule
+
+A sealed artifact for every MathWise computation:
+
+• Scroll lineage + ΔH(x;num)
+• Opcode digest (SHA-256)
+• Value-stability report
+• Inequality verification set
+• Intermediate state hashes
+• Machine-level Replay Recipe
+• Final integrity attestation
+
+Everything is drift-free, stabilized, and replayable.
+
+⸻
+
+🔁 Replay Recipe (Machine-Exact Reconstruction)
+
+Rebuilds every number, every transform, and every derived metric using:
+
+• Original input series
+• Canonical normalization
+• Deterministic opcode execution (DOSI)
+• Entropy-gated value rules
+• Property constraints via PVE
+• MDEK entropy fingerprints
+
+Any mismatch → tamper_code: computation_modified.
+
+⸻
+
+🧠 Deterministic Numerical Integrity Score (DNIS)
+
+Synthesizes:
+	•	entropy profile (ΔH)
+	•	variance thresholds
+	•	value-stability measures
+	•	drift-factorization
+	•	property compliance
+	•	opcode path coherence
+
+DNIS = a single deterministic rating of numerical correctness.
+No ML. No heuristics. No probabilistic inference.
+
+⸻
+
+🛑 HDLD-M — Hallucination Denial Detector (Math Mode)
+
+Rejects any numerical result not grounded in:
+	•	the computation’s input space
+	•	canonicalized transforms
+	•	DOSI-governed opcode pathways
+	•	property-verification constraints
+
+If unsupported → tamper_code: hallucination_detected.
+
+⸻
+
+📊 Deterministic Control Gates
+
+Gate	Function
+ΔH(x;num)	Entropy deviation threshold for numeric stability
+DriftIndex	Output stability validation across replay
+ValueFloor	Prevents unstable FP cascades / zero-crossing errors
+ELOC	Entropy-linked override chain for value conflicts
+RPE	Replay Proof of Equivalence
+HDLD-M	Hallucination denial (numeric)
+
+⸻
+
+🛠 Use Cases
+
+• Scientific reproducibility (replay-grade experiments)
+• Financial model governance (SOX, Basel, ESMA)
+• Engineering calculations & simulations
+• Diagnostics & waveform analysis
+• Climate, environmental & risk modeling
+• Legal & forensic computation
+• Regulatory compliance for numerical integrity
+• Deterministic alternatives to unstable FP pipelines
+
+⸻
+
+🔗 Interoperability
+
+Patent #41 integrates directly with:
+
+• #32 — RSEP (Seam & Anchor Exchange)
+• #33 — DI² Convergence Supervisor
+• #34 — ELOC Enforcement Layer
+• #35 — Mesh Guard Orchestrator
+• #36 — Deterministic Audit Fabric (DAF)
+
+This allows MathWise computation capsules to enter enterprise workflows, audit ecosystems, and DI²-led safety systems as first-class deterministic artifacts.
+
+⸻
+
+📄 Filing Summary
+
+Field	Value
+Filed	February 17, 2026
+Application No.	63/984,593
+Title	Deterministic Mathematical Computation & Audit System
+Status	Patent Pending (USPTO)
+
+⸻
+
+📘 Deterministic transforms, replayable proofs, and scroll-sealed execution.
+🧮 Entropy + Drift enforcement across DOSI, MDEK, PVE.
+🔐 Every computation is traceable, justified, and bit-for-bit reproducible.
+
+→ MathWise delivers evidence-grade truth for numerical computation.
+
+⸻
+
+🔗 Relationship to DI², MathKernel, and the Deterministic Ledger
+
+MathWise is not a standalone calculator — it is the numerical backbone of the Grounded DI architecture.
+
+Together with DI² and the Deterministic Audit Fabric:
+	•	DI² governs logic and system integrity
+	•	MathWise governs numbers and value stability
+	•	DAF preserves proof, lineage, and replayability
+
+This forms a closed-loop deterministic computation system that probabilistic models cannot replicate.
+
+____
+
+
 📘 Provisional Patent Filing #40 – DepoBot
 
 Deterministic Deposition Analyzer & Audit System
