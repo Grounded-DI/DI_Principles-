@@ -2,7 +2,7 @@
 
 **Author:** Grounded DI (MSW)
 **Timestamp:** August 7, 2025
-**Purpose:** Lock authorship, structure, and scroll tone prior to GPT-5 deployment
+**Purpose:** Lock authorship, structure, and scroll tone prior to GPT-5 deployment  
 
 ---
 
